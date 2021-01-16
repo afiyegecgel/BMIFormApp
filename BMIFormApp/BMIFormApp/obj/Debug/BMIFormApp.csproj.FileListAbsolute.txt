@@ -1,0 +1,10 @@
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\bin\Debug\BMIFormApp.exe.config
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\bin\Debug\BMIFormApp.exe
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\bin\Debug\BMIFormApp.pdb
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\obj\Debug\BMIFormApp.csprojAssemblyReference.cache
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\obj\Debug\BMIFormApp.Form1.resources
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\obj\Debug\BMIFormApp.Properties.Resources.resources
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\obj\Debug\BMIFormApp.csproj.GenerateResource.cache
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\obj\Debug\BMIFormApp.csproj.CoreCompileInputs.cache
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\obj\Debug\BMIFormApp.exe
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\BMIFormApp\BMIFormApp\obj\Debug\BMIFormApp.pdb
